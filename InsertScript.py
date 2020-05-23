@@ -1,3 +1,4 @@
+print ("Python Execution started");
 import mysql.connector
 from datetime import date
 mydb = mysql.connector.connect(
